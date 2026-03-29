@@ -32,9 +32,9 @@ The dashboards integrate healthcare data with visual analytics to identify high-
 
 ## key Insights: 
 
-  - 1
-  - 2
-  - 3
+  - The SAM dashboard reports a total of 35 cases. Taluk-wise distribution shows that Karkala accounts for 5 cases, while Kundapura and Udupi each report 15 cases, indicating a higher burden in these two Taluks.
+  - Gender-wise analysis reveals that male cases (25) are significantly higher than female cases (10), suggesting a noticeable gender disparity in severe malnutrition.
+  - The spatial mapping further highlights the distribution of cases across villages using a color-coded classification. Red-colored regions represent areas with more than 3 cases, indicating high-burden clusters. Yellow-colored regions indicate 2 cases, reflecting moderate levels, while green-colored regions represent 0–1 cases, indicating low prevalence.
 
 3. dashboard preview of Moderate Acute Malnutrition Report
    ![Moderate Acute Malnutrition](https://github.com/bandhavya-putturaya/Malnutrition-Dashboard-Spatial-Study/blob/main/MAM.png)
